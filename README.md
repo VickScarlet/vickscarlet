@@ -1,5 +1,5 @@
 ### Hi there 👋
-[stats](https://github-readme-stats.vercel.app/api?username=vickscarlet&show_icons=true&theme=radical)
+![stats](https://github-readme-stats.vercel.app/api?username=vickscarlet&show_icons=true&theme=radical)
 <!--
 **VickScarlet/vickscarlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
